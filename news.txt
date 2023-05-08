@@ -1,0 +1,5 @@
+Afin de proposer une information qui ne fait (directement en tout cas) appel à aucun journaliste, Google Actualités sélectionne des sources d'information dans les pays (ou les langues) où le service est proposé. Google Actualités recense par exemple 500 sources francophones2 et Google News 4 500 sources anglophones. Chacune des sources sélectionnées est scrutée plusieurs fois par jour par un robot Google : un Googlebot, qui indexe les nouveaux articles. Le contenu des articles est ensuite analysé à l'aide d'algorithmes pour déterminer le sujet.
+
+Ensuite les articles sont triés par degré de pertinence. Pour cela, Google prend en compte à la fois la notoriété de la source et compare avec d'autres articles publiés sur le même sujet, dans un même laps de temps. En fonction de cela, l'article va être plus ou moins bien classé sur la page de Google Actualités et lors des requêtes faites par les utilisateurs.
+
+En 2009, Google News a commencé à répertorier également les pages de Wikipédia. Il s'agit cependant d'une phase de test uniquement aux États-Unis3. Cette phase de test n'a cependant pas abouti à une implantation définitive.
